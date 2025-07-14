@@ -222,6 +222,7 @@
     "Availability": "Maintenance",
     "Location": "Repair Bay",
     "Maintenance": "2025-07-10"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO016",
@@ -236,6 +237,7 @@
     "Availability": "Available",
     "Location": "Exploration Base",
     "Maintenance": "2025-07-03"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO017",
@@ -250,6 +252,7 @@
     "Availability": "Available",
     "Location": "Access Road",
     "Maintenance": "2025-06-30"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO018",
@@ -264,6 +267,7 @@
     "Availability": "Available",
     "Location": "Equipment Yard",
     "Maintenance": "2025-07-01"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO019",
@@ -278,6 +282,7 @@
     "Availability": "Rented",
     "Location": "Demo Lot 5",
     "Maintenance": "2025-06-26"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO020",
@@ -292,5 +297,6 @@
     "Availability": "Available",
     "Location": "Field 12",
     "Maintenance": "2025-07-09"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   }
 ]
