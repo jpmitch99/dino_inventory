@@ -12,6 +12,7 @@
     "Availability": "Available",
     "Location": "Bedrock Quarry",
     "Maintenance": "2025-07-01"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458405.png"
   },
   {
     "ID": "DINO002",
@@ -26,6 +27,7 @@
     "Availability": "Rented",
     "Location": "Fred's Residence",
     "Maintenance": "2025-06-15"
+    "Image": "https://cdn-icons-png.flaticon.com/512/477/477149.png"
   },
   {
     "ID": "DINO003",
@@ -40,6 +42,7 @@
     "Availability": "Available",
     "Location": "Bedrock Depot",
     "Maintenance": "2025-07-03"
+    "Image": "https://cdn-icons-png.flaticon.com/512/1939/1939450.png"
   },
   {
     "ID": "DINO004",
@@ -54,6 +57,7 @@
     "Availability": "Maintenance",
     "Location": "Main Service Yard",
     "Maintenance": "2025-07-08"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458486.png"
   },
   {
     "ID": "DINO005",
@@ -68,6 +72,7 @@
     "Availability": "Available",
     "Location": "Dispatch Center",
     "Maintenance": "2025-06-30"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458576.png"
   },
   {
     "ID": "DINO006",
@@ -82,6 +87,7 @@
     "Availability": "Available",
     "Location": "Bedrock East",
     "Maintenance": "2025-07-05"
+    "Image": "https://cdn-icons-png.flaticon.com/512/9215/9215508.png"
   },
   {
     "ID": "DINO007",
@@ -96,6 +102,7 @@
     "Availability": "Available",
     "Location": "West Lot",
     "Maintenance": "2025-06-28"
+    "Image": "https://cdn-icons-png.flaticon.com/512/7203/7203397.png"
   },
   {
     "ID": "DINO008",
@@ -110,6 +117,7 @@
     "Availability": "Rented",
     "Location": "Bedrock Post Office",
     "Maintenance": "2025-07-02"
+    "Image": "https://cdn-icons-png.flaticon.com/512/1939/1939444.png"
   },
   {
     "ID": "DINO009",
@@ -124,6 +132,7 @@
     "Availability": "Available",
     "Location": "Construction Site 3",
     "Maintenance": "2025-06-22"
+    "Image": "https://cdn-icons-png.flaticon.com/512/4574/4574325.png"
   },
   {
     "ID": "DINO010",
@@ -138,6 +147,7 @@
     "Availability": "Available",
     "Location": "South Forest Line",
     "Maintenance": "2025-07-04"
+    "Image": "https://cdn-icons-png.flaticon.com/512/457/457001.png"
   },
   {
     "ID": "DINO011",
@@ -152,6 +162,7 @@
     "Availability": "Available",
     "Location": "Security Hub",
     "Maintenance": "2025-07-06"
+    "Image": "https://cdn-icons-png.flaticon.com/512/4574/4574325.png"
   },
   {
     "ID": "DINO012",
@@ -166,6 +177,7 @@
     "Availability": "Rented",
     "Location": "Lot 47",
     "Maintenance": "2025-06-29"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458378.png"
   },
   {
     "ID": "DINO013",
@@ -180,6 +192,7 @@
     "Availability": "Available",
     "Location": "Gravel Depot",
     "Maintenance": "2025-07-07"
+    "Image": "https://cdn-icons-png.flaticon.com/512/5458/5458364.png"
   },
   {
     "ID": "DINO014",
@@ -194,6 +207,7 @@
     "Availability": "Available",
     "Location": "Warehouse A",
     "Maintenance": "2025-06-27"
+    "Image": "https://cdn-icons-png.flaticon.com/512/8981/8981359.png"
   },
   {
     "ID": "DINO015",
